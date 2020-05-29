@@ -1,0 +1,28 @@
+body{
+    padding: 20px;
+  }
+
+ul{
+  list-style:none;
+  text-align:center;
+}
+
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+button.center{
+  margin-left:auto;
+  margin-right:aut
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  text-align: center;
+}
